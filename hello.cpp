@@ -14,5 +14,6 @@ int main()
   cout << "hats * heads = " << hats * heads << endl;
   cout << "hats / heads = " << hats / heads << endl;
   cout << "add a new line here"
+  cout << "add another new line on github"
   return 0;
 }
